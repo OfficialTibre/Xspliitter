@@ -12,3 +12,6 @@ this app requires no special permissions or access to your phone but you will ha
 
 to use the dependencies needed to work with OBS or Xsplit please visit this link below
 https://github.com/fredemmott/streaming-remote/releases
+
+
+https://github.com/OfficialTibre/Xsplitter/blob/master/screen.jpg
