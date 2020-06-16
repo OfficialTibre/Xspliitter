@@ -11,7 +11,7 @@ you can download just the source files and and run them in a web browser
 this app requires no special permissions or access to your phone but you will have to enable "install from unknown resource" on your phone
 
 to use the dependencies needed to work with OBS or Xsplit please visit this link below
-https://github.com/OfficialTibre/streaming-remote
+https://github.com/fredemmott/streaming-remote
 
 
 <img src="screen.jpg">
