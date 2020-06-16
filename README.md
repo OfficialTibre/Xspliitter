@@ -14,4 +14,4 @@ to use the dependencies needed to work with OBS or Xsplit please visit this link
 https://github.com/fredemmott/streaming-remote/releases
 
 
-<img src="resources/screen.jpg" alt="Logo">
+<img src="screen.jpg">
