@@ -1,4 +1,4 @@
-# Xspliitter
+# Xsplitter
 APK version of the webui of streaming remote by fredemmott
 
 
