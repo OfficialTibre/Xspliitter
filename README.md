@@ -13,6 +13,8 @@ this app requires no special permissions or access to your phone but you will ha
 to use the dependencies needed to work with OBS or Xsplit please visit this link below
 https://github.com/fredemmott/streaming-remote
 
+and read this
+
 https://github.com/fredemmott/streaming-remote/blob/v2.2.4/INSTALL.md
 
 <img src="screen.jpg">
